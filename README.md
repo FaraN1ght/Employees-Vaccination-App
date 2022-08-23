@@ -1,7 +1,6 @@
 |•| ¿QUÉ HACE EL PROYECTO? |•|
 
-Te permite interactuar con roles de usuario (administrador y empleado)
-un CRUD de empleados vacunados contra el COVID-19
+Te permite interactuar con roles de usuario (administrador y empleado) un CRUD de empleados vacunados contra el COVID-19. El proyecto no está completo pues faltan algunas opciones para filtrar los datos.
 
 |•| ROLES DE USUARIO |•|
 
@@ -24,7 +23,11 @@ Una vez obtenidos los comandos, se procede a instalar yarn:
 
 |•| INSTALACIÓN |•|
 
-Puedes descargar el proyecto y darle a npm install
+Puedes descargar el proyecto desde github como ZIP e instalar las dependencias con el comando:
 
-○  
+○          npm install 
+
+Finalmente para ejecutar el proyecto sólo tienes que ejecutar el comando y copiar la dirección del enlace: 
+
+○          yarn dev
 
