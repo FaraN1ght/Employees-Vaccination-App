@@ -1,3 +1,7 @@
+|•| ENLACE DEL PROYECTO |•|
+
+https://employees-vacination.netlify.app
+
 |•| ¿QUÉ HACE EL PROYECTO? |•|
 
 Te permite interactuar con roles de usuario (administrador y empleado) un CRUD de empleados vacunados contra el COVID-19. El proyecto no está completo pues faltan algunas opciones para filtrar los datos.
